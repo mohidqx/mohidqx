@@ -5,8 +5,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohid.shahzada.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohid.qx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mohid.qx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/M_mohidd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@M_mohidd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohid.qx@outlook.com) 
 
 ### 📢 Join My Channels
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb5n1UC7oQhYnrlUBD26) 
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/G6rsfa6dCDrLdH672QeNML?mode=ems_wa_t)
+[![whatsapp Channel](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb5n1UC7oQhYnrlUBD26) 
+[![whatsapp Group](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/G6rsfa6dCDrLdH672QeNML?mode=ems_wa_t)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/CyberOpsOfficial)
 
 # 💻 Tech Stack:
