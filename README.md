@@ -1,7 +1,6 @@
 # 💫 About Me:
 👨‍💻 About Me<br><br>Hi, I’m Mohid (r00t:~#) — a self-taught developer passionate about cybersecurity, automation, and open-source projects. I enjoy building lightweight tools that make complex tasks simpler, whether that’s testing security flaws or streamlining everyday workflows.<br><br>🔧 What I Build<br><br>🛡 Security Tools – like AutoInjectX an XSS automation utility.<br><br>⚡ Automation Scripts – tools for session handling and repetitive task automation.<br><br>🧩 Open Source Contributions – experimenting, forking, and improving existing projects.<br><br>🚀 Goals<br><br>Deepen my knowledge in ethical hacking & penetration testing.<br><br>Create developer-friendly tools for the community.<br><br>Learn, share, and grow with other coders.<br><br>📍 From Pakistan | 🌐 [![r00t.monster](https://r00t.monster/)]
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohid.shahzada.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohid.qx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mohid.qx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/M_mohidd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@M_mohidd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohid.qx@outlook.com) 
 
@@ -13,5 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohidqx&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohidqx&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohidqx&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohidqx&limit=5&theme=dark&combine_all_yearly_contributions=true)
