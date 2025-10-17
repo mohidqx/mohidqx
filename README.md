@@ -16,7 +16,7 @@ Hi, I’m Mohid (r00t:~#) — a self-taught developer passionate about cybersecu
 ![](https://github-readme-stats.vercel.app/api?username=mohidqx&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohidqx&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohidqx&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<script src="https://readmecodegen.com/view-tracker.js" data-user="user_mguuv4ku_igy01p"></script>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohidqx&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
