@@ -7,7 +7,11 @@
   </a>
 </div>
 
-# 💫 About Me:
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 Hi, I’m Mohid (r00t:~#) — a self-taught developer passionate about cybersecurity, automation, and open-source projects. I enjoy building lightweight tools that make complex tasks simpler.<br><br>🚀 Goals<br>Deepen my knowledge in ethical hacking & penetration testing.<br>Learn, share, and grow with other coders.<br>
 📍 ![Made in Pakistan](https://img.shields.io/badge/LIVES%20IN%20-PAKISTAN-green?style=for-the-badge&logo=appveyor) | 🌐 [![r00t.monster](https://r00t.monster/)]
 
