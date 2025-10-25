@@ -12,8 +12,24 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
-Hi, I’m Mohid (r00t:~#) — a self-taught developer passionate about cybersecurity, automation, and open-source projects. I enjoy building lightweight tools that make complex tasks simpler.<br><br>🚀 Goals<br>Deepen my knowledge in ethical hacking & penetration testing.<br>Learn, share, and grow with other coders.<br>
-📍 ![Made in Pakistan](https://img.shields.io/badge/LIVES%20IN%20-PAKISTAN-green?style=for-the-badge&logo=appveyor) | 🌐 [![r00t.monster](https://r00t.monster/)]
+I'm **[`[r00t:~#]`](https://www.t.me/CyberOpsOfficial)**, a hacker and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: [r00t:~#]
+- **From**: Pakistan
+- **Bug Hunter** | **Ethical Hacker** 
+- i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
+- Improving knowledge in **Webapp Vulnerabilities & Network Hacking**
+- Lifelong learner — always exploring **everything**
+- Reach me out at **mohid.qx@proton.me**
+
+</details>
+<br>
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohid.shahzada.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohid.qx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mohid.qx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/M_mohidd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@M_mohidd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohid.qx@outlook.com) 
