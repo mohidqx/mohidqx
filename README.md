@@ -30,7 +30,23 @@ I'm [`r00t:~#`](https://www.t.me/CyberOpsOfficial), a hacker and aspiring Cybers
 <br>
 
 ---
+<h2 id="present_status"> Present Status </h3>
 
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
+👉 Still Learning Bug hunting & malware forensics.
+
+👉 Managing Tech Communities & Content creator.
+
+👉 Writing Some Useful Tools For Myself & Communities
+
+👉 Building & Contributing To Open Source Projects
+
+👉 Currently Learning mobile pentesting & web3 
+
+`Updating:`  Journey to Cybersecurity Specialist.
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohid.shahzada.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohid.qx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mohid.qx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/M_mohidd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@M_mohidd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohid.qx@outlook.com) 
 
