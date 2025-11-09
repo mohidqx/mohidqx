@@ -111,5 +111,5 @@ I'm [r00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter. W
 <a>🌱</a>
 </p>
 <p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Caerlower/caerlower/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
